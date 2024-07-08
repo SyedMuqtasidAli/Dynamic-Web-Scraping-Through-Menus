@@ -21,7 +21,7 @@ Web scraping is the process of extracting data from websites. It involves writin
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/web-scraping-project.git
+    git clone https://github.com/syed-muqtasid-ali/web-scraping-project.git
     ```
 
 2. **Navigate to the project directory**:
